@@ -1,1 +1,1 @@
-displays all files even hidden
+displays all files in long with their ids
