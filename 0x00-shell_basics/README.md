@@ -1,1 +1,1 @@
-displays all files in long with their ids
+creates a script named my_first_directory in the /tmp/ directory
