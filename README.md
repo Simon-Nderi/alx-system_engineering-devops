@@ -1,1 +1,1 @@
-this repo is for shell developments
+shell permission on redirection and filters project
